@@ -1,0 +1,40 @@
+DATA LOG
+***********************************
+
+Customer Name: joe bloggs
+Product: Cozy Nights Monarch
+VAT: R 525.0
+COMMISSION: R 175.0
+TOTAL: R 4200.0
+***********************************
+
+DATA LOG
+***********************************
+
+Customer Name: joe bloggs
+Product: Cozy Nights Monarch
+VAT: R 525.0
+COMMISSION: R 175.0
+TOTAL: R 4200.0
+***********************************
+
+DATA LOG
+***********************************
+
+Customer Name: joe bloggs
+Product: Restonic Barbados
+VAT: R 525.0
+COMMISSION: R 175.0
+TOTAL: R 4200.0
+***********************************
+
+DATA LOG
+***********************************
+
+Customer Name: joe bloggs
+Product: Sealy Phuket
+VAT: R 525.0
+COMMISSION: R 175.0
+TOTAL: R 4200.0
+***********************************
+
